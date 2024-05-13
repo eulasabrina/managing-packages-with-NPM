@@ -1,6 +1,7 @@
 {
+	"author":"eula",
 	"name": "fcc-learn-npm-package-json",
-	"dependencies": {
+		"dependencies": {
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
