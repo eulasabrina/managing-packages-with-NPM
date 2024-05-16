@@ -1,5 +1,6 @@
 {
 	"author":"eula",
+	"description": "A web app that teaches people managing packages whit NPM",
 	"name": "fcc-learn-npm-package-json",
 		"dependencies": {
 		"express": "^4.14.0"
