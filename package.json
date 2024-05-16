@@ -3,6 +3,7 @@
 	"description": "A web app that teaches people managing packages whit NPM",
 	"keywords": ["freecodecamp","learningWithNpm","npm"],
 	"name": "fcc-learn-npm-package-json",
+	"license": "MIT",
 		"dependencies": {
 		"express": "^4.14.0"
 	},
